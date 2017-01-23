@@ -1,0 +1,24 @@
+<NotepadPlus>
+    <Project name="P">
+        <Folder name="dist">
+            <Folder name="css">
+                <File name="dist\css\pretty.css" />
+            </Folder>
+            <Folder name="js">
+                <File name="dist\js\magic.min.js" />
+            </Folder>
+        </Folder>
+        <Folder name="src">
+            <Folder name="css">
+                <File name="src\css\pretty.less" />
+                <File name="src\css\style.css" />
+            </Folder>
+            <Folder name="js">
+                <File name="src\js\magic.js" />
+            </Folder>
+        </Folder>
+        <File name="Gruntfile.js" />
+        <File name="npp.workspace" />
+        <File name="package.json" />
+    </Project>
+</NotepadPlus>
